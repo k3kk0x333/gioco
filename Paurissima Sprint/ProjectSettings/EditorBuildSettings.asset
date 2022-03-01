@@ -4,11 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Paurissima Sprint/Scene/Menu.unity
-    guid: 1970ac8a2b8988a4ca4a759d6de68166
-  - enabled: 1
-    path: Assets/Paurissima Sprint/Scene/Level1.unity
-    guid: 025b6cc888a71cb4bb281583aa1ba701
-  m_configObjects: {}
+  m_Scenes: []
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: bf916ce5a1c764b439b28364f3121934,
+      type: 2}
