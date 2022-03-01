@@ -43,7 +43,7 @@ public class DoorScript : MonoBehaviour
                 opened = !opened;
 
                 //This line will set the bool true so it will play the animation.
-                anim.SetBool("Opened", !opened);
+                anim.SetBool("Opened", opened);
             }
         }
     }
